@@ -107,12 +107,13 @@ def train_model(model, train_loader,criterion,optimizer,epochs):
 
 ### Classification Report
 
-![Screenshot 2025-03-17 085246](https://github.com/user-attachments/assets/97d9fe36-8c15-439a-b36a-4b77377a20c8)
+<img width="666" alt="Screenshot 2025-03-16 at 10 49 24 PM" src="https://github.com/user-attachments/assets/b66cca4a-793a-4c56-859a-4a3af14a6eb4" />
+
 
 
 ### New Sample Data Prediction
 
-![Screenshot 2025-03-17 085235](https://github.com/user-attachments/assets/f3b6e073-d3a9-4836-8c51-8cd8e89c1eb2)
+<img width="828" alt="Screenshot 2025-03-16 at 10 54 06 PM" src="https://github.com/user-attachments/assets/a1b911b7-c81a-44ad-bfe8-9aa63d8d78b1" />
 
 ## RESULT
 So, To develop a neural network classification model for the given dataset is executed successfully.
